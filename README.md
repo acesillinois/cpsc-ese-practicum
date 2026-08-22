@@ -21,8 +21,8 @@ Feel free to submit your completed exercises as either a link of .ipynb file for
 Reaching Assignments Through Canvas w/ Classroom 50
 https://github.com/foundation50/classroom50/discussions/46
 
-Canvas ↓ click assignment
-Classroom 50 assignment page ↓ accept
-Private GitHub repository ↓ Open in Colab
-Colab notebook ↓ save/commit
-GitHub will commit to student repository
+ * Canvas ↓ click assignment
+ * Classroom 50 assignment page ↓ accept
+ * Private GitHub repository ↓ Open in Colab
+ * Colab notebook ↓ save/commit
+ * GitHub will commit to student repository
