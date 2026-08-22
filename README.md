@@ -17,3 +17,12 @@ Each of these choices have its own advantages and disadvantages so make sure to 
 Check this repository frequently, as you may find some extra credit exercises posted once in a while. 
 If we do post extra-credit work- it will be designed to be completed in under 1 hr.
 Feel free to submit your completed exercises as either a link of .ipynb file for comments and extra credit.
+
+Reaching Assignments Through Canvas w/ Classroom 50
+https://github.com/foundation50/classroom50/discussions/46
+
+Canvas ↓ click assignment
+Classroom 50 assignment page ↓ accept
+Private GitHub repository ↓ Open in Colab
+Colab notebook ↓ save/commit
+GitHub will commit to student repository
