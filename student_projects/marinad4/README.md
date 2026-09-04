@@ -1,6 +1,6 @@
-#CORN ECONOMIC OPTIMUM NITROGEN RATES ACROSS FOUR DECADES AFFECTED BY CROP ROTATION
-###Priority Area(s): Nutrient management, crop rotation, nitrogen use efficiency
-####Overview
+# CORN ECONOMIC OPTIMUM NITROGEN RATES ACROSS FOUR DECADES AFFECTED BY CROP ROTATION
+### Priority Area(s): Nutrient management, crop rotation, nitrogen use efficiency
+#### Overview
 <p>
 Food security can be maintained with high-yielding crops. High-yielding corn depends on nitrogen (N)
 inputs. N fertilizer has a cost, and efficient use is desired for both environmental and economic reasons.
@@ -13,7 +13,7 @@ distinguish a temporal change in a consistent production system. Evaluating how 
 large year scale can reveal whether the benefits of crop rotation remain consistent over time and how we
 can better support future N recommendations.
   </p>
-####Goals and Objectives
+#### Goals and Objectives
 <p>
 The goal of this project is to determine how corn yield response to N and EONR has changed over 43
 years under corn-corn and corn-soybean rotations. The specific objectives are: 1) Estimate annual corn
