@@ -13,6 +13,7 @@ distinguish a temporal change in a consistent production system. Evaluating how 
 large year scale can reveal whether the benefits of crop rotation remain consistent over time and how we
 can better support future N recommendations.
   </p>
+
 #### Goals and Objectives
 <p>
 The goal of this project is to determine how corn yield response to N and EONR has changed over 43
