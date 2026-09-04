@@ -22,9 +22,9 @@ crop yield may be developed.
 https://plos.figshare.com/articles/dataset/Contrasting_Pollinators_and_Pollination_in_Native_and_Non-Native_Regions_of_Highbush_Blueberry_Production/3906906
 </http>
 
-<url>
+<http>
 doi.org/10.1371/journal.pone.0158937
-</url>
+</http>
 
 ## Article
-<url> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158937 </url
+<http> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158937 </http>
