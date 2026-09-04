@@ -1,5 +1,4 @@
-# INCLUDING TRYPSIN INHIBITOR VARIABLE IN IMPROVE ACCURACY AMINO ACID
-DIGESTIBILITY PREDICTIVE MODELS FOR SOYBEAN MEAL
+# INCLUDING TRYPSIN INHIBITOR VARIABLE IN IMPROVE ACCURACY AMINO ACID DIGESTIBILITY PREDICTIVE MODELS FOR SOYBEAN MEAL
 
 <p>Soybean meal (SBM) remains the most utilized protein feedstuff in poultry production
 because of its balanced amino acid profile. Currently, diets are formulated based on
