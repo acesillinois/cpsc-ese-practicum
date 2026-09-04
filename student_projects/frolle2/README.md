@@ -27,9 +27,12 @@ broad regional recommendations.
 <p>
 The specific objectives are to: 
   <list>
-    (1) estimate site-year EONRs from historical corn N-response trials; 
-    (2) develop a spatial model incorporating geographic location, soil properties, and weather conditions; and 
-    (3) evaluate its performance against the current three-region MRTN approach and 
-    (4) implement the best-performing model in a prototype tool.
-    </list>
+    (1) estimate site-year EONRs from historical corn N-response trials;
+    
+   (2) develop a spatial model incorporating geographic location, soil properties, and weather conditions; and
+   
+   (3) evaluate its performance against the current three-region MRTN approach and 
+   
+   (4) implement the best-performing model in a prototype tool.
+  </list>
 </p>
