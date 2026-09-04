@@ -19,10 +19,10 @@ assumption, counting more pollen grains reduces sampling error.
 ## Plan
 <p>
   <list>
-1. Tomato will be grown in a greenhouse under control and high temperature. High
+    1. Tomato will be grown in a greenhouse under control and high temperature. High
 temperature will be used to increase the non-viable pollen. Open flowers will then be
 collected from each treatment.
-
+    
 2. Each pollen will be collected from anther and mixed with pollen viability solution and
 1% Trypan blue and stained for 3 minutes. The stained pollen will be loaded onto a
 hemocytometer, and images will be collected using a light microscope.
@@ -31,6 +31,6 @@ hemocytometer, and images will be collected using a light microscope.
 live or dead, and an open source object detection model will be retrained on these
 images to detect and classify each grain.
 
-4. The model will be validated for a
+4. The model will be validated for accuracy
   </list>
 </p>
