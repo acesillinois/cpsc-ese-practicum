@@ -35,6 +35,7 @@ https://arxiv.org/abs/2002.06460
 super-resolution. European Conference on Computer Vision (ECCV).
 Dong, C., Loy, C. C., & Tang, X. (2016). Accelerating the super-resolution convolutional neural
 network. European Conference on Computer Vision (ECCV).
+
 Kim, J., Lee, J. K., & Lee, K. M. (2016). Accurate image super-resolution using very deep
 convolutional networks. Proceedings of the IEEE Conference on Computer Vision and Pattern
 Recognition (CVPR).
@@ -54,6 +55,7 @@ image super-resolution. IEEE Conference on Computer Vision and Pattern Recogniti
 Masrur, A., Olsen, P. A., Adler, P. R., Jackson, C., Myers, M. W., Sedghi, N., & Weil, R. R. (2025).
 Learning to see more: UAS-guided super-resolution of satellite imagery for precision agriculture.
 arXiv. https://arxiv.org/abs/2505.21746
+
 Mullan, D., et al. (2021). Real-sensor UAV super-resolution for crop phenotyping. Field Crops
 Research.
 
