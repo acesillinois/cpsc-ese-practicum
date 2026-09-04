@@ -1,0 +1,33 @@
+name: Delete root PDFs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  delete-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Delete PDFs in repository root only
+        run: |
+          find . -maxdepth 1 -type f -iname "*.pdf" -print -delete
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No root-level PDFs found."
+          else
+            git commit -m "Remove root-level PDF files"
+            git push
+          fi
